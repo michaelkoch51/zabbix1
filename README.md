@@ -37,7 +37,9 @@ systemctl enable zabbix-agent
   
 <img width="614" height="382" alt="Снимок экрана 2026-03-09 в 10 10 27" src="https://github.com/user-attachments/assets/4179bb67-7a28-439b-bb10-430131489840" />  
 
+
 <img width="775" height="411" alt="Снимок экрана 2026-03-09 в 10 57 08" src="https://github.com/user-attachments/assets/8f70f2d2-504a-4a93-9e6c-9b34aa12c5e5" />  
+
 
 <img width="625" height="387" alt="Снимок экрана 2026-03-09 в 19 06 25" src="https://github.com/user-attachments/assets/ea1e21ec-c4a6-4a03-8c92-9d4de8ee4852" />  
 
